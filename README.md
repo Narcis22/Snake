@@ -5,7 +5,7 @@ Introduction to Robotics Homework 5, 3rd year at the Faculty of Matematics and C
 ### 🐍 Snake (Narcis's version) 🍎
 
 >The game is composed of two main parts:
-  - The menu (which is presented on a lcd display -https://docs.arduino.cc/learn/electronics/lcd-displays-) 
+  - The menu (which is presented on a lcd display) 
   
   - The Game (which is the presented on an 8x8 matrix display)
  
@@ -40,14 +40,13 @@ control.
 ### ![motherboard](https://user-images.githubusercontent.com/62501946/207729702-9d0b2461-6e45-44bb-822e-b9c9e249d3ad.png) ![buzzer](https://user-images.githubusercontent.com/62501946/207729581-dfef9b80-1f5d-4c7e-b015-9d15bbeb6033.png) Used Hardware🕹️![lcd](https://user-images.githubusercontent.com/62501946/207729283-d9806b57-faa1-4b8f-b62e-b0122991240a.png)
 
 
-
- - potentiometers - img
- - Joystick - img
- - buzzer - img
- - lcd - link to page
- - 8x8 matrix display - lcd
- - processor - MAX7219 LED Driver
- - arduino board - link
+ - [Potentiometers](https://arduinogetstarted.com/tutorials/arduino-potentiometer) - Two of them for phisically controling the lcd contrast and the volume for the buzzer.
+ - [Joystick](https://components101.com/modules/joystick-module)
+ - [Buzzer](https://components101.com/misc/buzzer-pinout-working-datasheet)
+ - [LCD details](https://docs.arduino.cc/learn/electronics/lcd-displays)
+ - [8x8 matrix display](https://create.arduino.cc/projecthub/SAnwandter1/programming-8x8-led-matrix-23475a)
+ - [MAX7219 - Driver for LCD](https://www.analog.com/media/en/technical-documentation/data-sheets/max7219-max7221.pdf)
+ - [Arduino UNO R3 board](https://docs.arduino.cc/static/9d6ed041fec691039663ae42f50fabcc/A000066-datasheet.pdf)
  
  
 ### 🧾 Rules of the game from the Introduction to Robotics class that have to be met:
