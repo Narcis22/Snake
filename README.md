@@ -64,6 +64,16 @@ control.
 <details> <summary><i><b>Setup photos</b></i> </summary>
 </br></br>
 
+![20221214_232211342_iOS](https://user-images.githubusercontent.com/62501946/207737898-279f9f17-d48d-4e5e-997a-bc634b0c9fa4.png)
+
+![20221214_232251512_iOS](https://user-images.githubusercontent.com/62501946/207737905-ff8598e9-ded5-449e-9e41-ce6b6e913294.png)
+
+![20221214_232304154_iOS](https://user-images.githubusercontent.com/62501946/207737920-27c22a24-fd3b-4fe1-bc30-a1c77739129c.png)
+
+![20221214_232223030_iOS](https://user-images.githubusercontent.com/62501946/207737909-bb1bd7fe-0374-4200-8e98-baeb6a893652.png)
+
+![20221214_232217539_iOS](https://user-images.githubusercontent.com/62501946/207737916-c384b0bb-9450-4035-a0a8-be6f96a91ca9.png)
+
 </details>
 
 
