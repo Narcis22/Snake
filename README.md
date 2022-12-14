@@ -27,6 +27,7 @@ and four yeald 30 points per apple eaten and levels 4 and up yeald 50 points per
 With each level the difficulty of the game increases as follows: On each level the speed of the snake increases, 
 and on the last level we have disabled the wall warping function (passwing trough walls and coming out on the opposide
 side).
+![buzzer](https://user-images.githubusercontent.com/62501946/207729564-6614f6fb-4cfc-4f41-8e14-e4bdb768c869.png)
 
 > Sounds will be played when navigating trough the menu and when the snake eats apples as well as when the
 sake dies. These sounds will be disabled if the user chooses the mute function in the settings menu.
@@ -36,7 +37,8 @@ like: a play button image on the `Start Game` menu, a trophy on the `Leaderboard
 > The Project also contains phisical dials (potentiometers) for the LCD contrast function and the Buzzer volume 
 control.
 
-### Used Hardware🕹️
+### ![motherboard](https://user-images.githubusercontent.com/62501946/207729702-9d0b2461-6e45-44bb-822e-b9c9e249d3ad.png) ![buzzer](https://user-images.githubusercontent.com/62501946/207729581-dfef9b80-1f5d-4c7e-b015-9d15bbeb6033.png) Used Hardware🕹️![lcd](https://user-images.githubusercontent.com/62501946/207729283-d9806b57-faa1-4b8f-b62e-b0122991240a.png)
+
 
 
  - potentiometers - img
@@ -59,3 +61,12 @@ control.
  - It must make sense in the current setup. Study the idea of a panning camera - aka the 8x8 led doesn’t need to be the entire map. It can only be the current field of view of the player.
  
  - The levels must progress dynamically. Aka the level difficulty, score and other properties should be a function of the level number or time. However, the challenge here is for it to grow in a playable way - not too easy for a long time so it becomes boring, not too hard too fast so it’s not attractive. Also, it’s nice to have an ending, a final level, a boss etc. It shouldn’t necessarily go on forever (but that’s fine, though).
+
+<details> <summary><i><b>Setup photos</b></i> </summary>
+</br></br>
+
+</details>
+
+
+![youtube](https://user-images.githubusercontent.com/62501946/207731145-e389b0ed-5e28-46d1-b37d-ae46b870f8c5.png) <i><b>Video with walktrough and playtrough: </b></i>
+[Go to youtube to see video.]()
