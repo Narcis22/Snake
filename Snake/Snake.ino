@@ -2182,7 +2182,7 @@ void levelUp() {
       snakeBody[0].y = 0;
       snakeBody[1].x = 0;
       snakeBody[1].y = 1;
-      snakeLength = 2; 
+      snakeLength = 2;
       direction = 0;
       
       for (int i = 0; i < matrixSize; ++i) {
