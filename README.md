@@ -76,6 +76,7 @@ control.
 
 </details>
 
+[Code](https://github.com/Narcis22/Snake/blob/main/Snake/Snake.ino)
 
 ![youtube](https://user-images.githubusercontent.com/62501946/207731145-e389b0ed-5e28-46d1-b37d-ae46b870f8c5.png) <i><b>Video with walktrough and playtrough: </b></i>
 [Go to youtube to see video.]()
